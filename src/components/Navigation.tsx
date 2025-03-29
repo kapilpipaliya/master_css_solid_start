@@ -12,6 +12,9 @@ export function Navigation() {
             <A class="text-gray-800 hover:text-gray-600" href="/about">
               About
             </A>
+            <A class="text-gray-800 hover:text-gray-600" href="/primary-demo">
+              Primary Demo
+            </A>
           </div>
         </div>
       </div>
